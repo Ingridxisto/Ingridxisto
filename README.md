@@ -15,8 +15,7 @@
  ## IDE
  <div style="display: inline_block"><br/>
    <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-   <img https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white />
-
+   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
 ## Social Network
