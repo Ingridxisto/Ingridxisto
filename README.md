@@ -1,15 +1,28 @@
-# Olá, eu sou a Ingrid 👋
+# Olá, eu sou a Ingrid! 👋
 
-Sou desenvolvedora back-end apaixonada por transformar ideias em código prático e eficiente.  
-Atualmente, trabalho com Python, Flask, Django e banco de dados, sempre buscando aprender e entregar soluções de qualidade.  
-Aqui no GitHub você vai encontrar projetos pessoais, acadêmicos e trabalhos que refletem meu crescimento profissional.  
-Vamos codar juntos? 🚀
+### Desenvolvedora Back-end | Apaixonada por código limpo e soluções inteligentes 💻✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula" alt="Ingrid GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
 </p>
 
-## Tecnologias que uso no meu dia a dia
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridxisto&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 👩‍💻 Desenvolvedora back-end focada em Python, Flask, Django e bancos de dados (MySQL, SQLite)  
+- 📊 Apaixonada por análise de dados com Pandas e automações inteligentes  
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas  
+- 💡 Sempre aprendendo, compartilhando conhecimento e buscando soluções eficientes  
+- ⚡ Curiosa, organizada e pró-ativa para enfrentar desafios técnicos  
+
+---
+
+## 💻 Tecnologias que uso no meu dia a dia
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +34,9 @@ Vamos codar juntos? 🚀
   <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </div>
 
-## Ferramentas / IDEs favoritas
+---
+
+## 🛠 Ferramentas e IDEs favoritas
 
 <div align="center">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -30,15 +45,58 @@ Vamos codar juntos? 🚀
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-## Projetos em destaque
+---
 
-- [Projeto Controle de Estoque](https://github.com/Ingridxisto/Controle-de-Estoque) - Sistema de controle de estoque feito com Flask e MySQL.  
-- [Biblioteca Digital](https://github.com/Ingridxisto/Biblioteca_Digital-API) - Sistema integrado para gerenciamento de livros.  
-- [API Simpsons](https://github.com/Ingridxisto/Web-Site-com-Integracao-da-API-de-Os-Simpsons) - Projeto front-end consumindo API dos Simpsons.
+## 🔥 Hard Skills
 
-## Vamos nos conectar?
+- 🐍 Python (Flask, Django)  
+- 💾 Banco de dados (MySQL, SQLite)  
+- 📈 Análise de dados (Pandas)  
+- 🧪 Testes e APIs REST  
+- 📝 Versionamento Git / GitHub  
+- 🛠 Docker (em aprendizado)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ingridxisto_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-xisto-092a27244/)
+---
+
+## 🌟 Soft Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Comunicação-0078D7?style=for-the-badge&logo=messenger&logoColor=white" alt="Comunicação" /> 
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-4CAF50?style=for-the-badge&logo=slack&logoColor=white" alt="Trabalho em equipe" />
+  <img src="https://img.shields.io/badge/Organização-F44336?style=for-the-badge&logo=trello&logoColor=white" alt="Organização" />
+  <img src="https://img.shields.io/badge/Proatividade-FF9800?style=for-the-badge&logo=zapier&logoColor=white" alt="Proatividade" />
+  <img src="https://img.shields.io/badge/Curiosidade-9C27B0?style=for-the-badge&logo=google&logoColor=white" alt="Curiosidade" />
+</div>
+
+---
+
+## 💡 Projetos em destaque
+
+| Projeto | Descrição | Link |
+| --- | --- | --- |
+| Controle de Estoque | Sistema com Flask, CRUD e MySQL | [GitHub](https://github.com/Ingridxisto/Controle-de-Estoque) |
+| Biblioteca Digital | Gerenciamento integrado de livros | [GitHub](https://github.com/Ingridxisto/Biblioteca_Digital-API) |
+| API Simpsons | Frontend consumindo API dos Simpsons | [GitHub](https://github.com/Ingridxisto/Web-Site-com-Integracao-da-API-de-Os-Simpsons) |
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://instagram.com/ingridxisto_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ingridxisto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 > "You can create anything: just write it." – C.S. Lewis
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="coding gif" width="250" />
+</p>
