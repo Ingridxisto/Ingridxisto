@@ -2,36 +2,7 @@
 
 ### Desenvolvedora Back-end | Apaixonada por código limpo e soluções inteligentes 💻✨
 
-![Uploadin<svg width="450" height="140" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo estilo Dracula -->
-  <rect width="100%" height="100%" fill="#282a36" rx="15" ry="15"></rect>
-  
-  <!-- Círculo com iniciais -->
-  <circle cx="60" cy="70" r="40" fill="#bd93f9"></circle>
-  <text x="60" y="85" font-family="Arial Black, sans-serif" font-size="48" fill="#282a36" text-anchor="middle" dominant-baseline="middle">
-    IX
-  </text>
-  
-  <!-- Texto do nome -->
-  <text x="130" y="55" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="700" font-size="26" fill="#f8f8f2">
-    Ingrid Xisto
-  </text>
-  
-  <!-- Texto da graduação -->
-  <text x="130" y="90" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="400" font-size="16" fill="#bd93f9">
-    Analista e Desenvolvedora Backend
-  </text>
-  
-  <!-- Quebrando "Graduação em Análise e Desenvolvimento de Sistemas" em duas linhas -->
-  <text x="130" y="110" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="400" font-size="14" fill="#6272a4" font-style="italic">
-    Graduação em Análise e Desenvolvimento
-  </text>
-  <text x="130" y="130" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="400" font-size="14" fill="#6272a4" font-style="italic">
-    de Sistemas
-  </text>
-</svg>
-g logo_ingrid.svg…]()
-
+![Imagem sobre](https://github.com/user-attachments/assets/d3900460-5a49-47c9-90d4-14a6557dd0a1)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
