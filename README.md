@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridxisto&theme=dracula" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 Sobre mim
