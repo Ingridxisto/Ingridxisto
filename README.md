@@ -2,8 +2,6 @@
 
 ### Desenvolvedora Back-end | Apaixonada por código limpo e soluções inteligentes 💻✨
 
-![Imagem sobre](https://github.com/user-attachments/assets/d3900460-5a49-47c9-90d4-14a6557dd0a1)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
 </p>
