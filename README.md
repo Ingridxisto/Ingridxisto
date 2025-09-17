@@ -1,4 +1,4 @@
-# Olá, eu sou a Ingrid! 👋
+# Olá, eu sou Ingrid! 👋
 
 ### Desenvolvedora Back-end | Apaixonada por código limpo, APIs REST e soluções inteligentes 💻✨
 
