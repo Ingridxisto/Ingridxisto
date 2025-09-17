@@ -3,7 +3,7 @@
 ### Desenvolvedora Back-end | Apaixonada por código limpo, APIs REST e soluções inteligentes 💻✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
+  <img src="https://media.giphy.com/media/UoGELf04RFztwDQrBj/giphy.gif" alt="Pinguim tecnologia AI" width="250" />
 </p>
 
 ---
