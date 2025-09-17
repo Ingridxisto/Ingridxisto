@@ -94,6 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VDMHgvx8N9U7UUlczQ/giphy.gif" alt="Pinguim chip de IA" width="250" />
+  <img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" alt="Pinguim hacker" width="250" />
 </p>
+
 
