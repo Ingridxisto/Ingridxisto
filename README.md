@@ -93,4 +93,7 @@
 
 ---
 
-![pinguim programando](https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/VDMHgvx8N9U7UUlczQ/giphy.gif" alt="Pinguim chip de IA" width="250" />
+</p>
+
