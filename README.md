@@ -58,7 +58,7 @@
 - 📈 Análise de dados com Pandas e Orange
 - 🌐 APIs RESTful (documentação, consumo e construção)
 - 📝 Versionamento com Git/GitHub
-- 🐳 Docker (em aprendizado contínuo)
+- 🐳 Docker
 
 ---
 
