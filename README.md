@@ -94,5 +94,6 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5mOTRwYzQ0bml5emUzZDY4MXQ4ZzU0aGhyY3JoNno3aWs0ZXo1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="coding gif" width="250" />
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" alt="pinguim programando" width="250" />
 </p>
+
