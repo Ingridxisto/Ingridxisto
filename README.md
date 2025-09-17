@@ -93,7 +93,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" alt="pinguim programando" width="250" />
-</p>
-
+![pinguim programando](https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif)
