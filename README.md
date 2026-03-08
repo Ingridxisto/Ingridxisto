@@ -97,7 +97,7 @@ Sempre buscando escrever **código limpo, eficiente e escalável**.
 # 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ingridxisto/Ingridxisto/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Ingridxisto/Ingridxisto/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
