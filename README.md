@@ -1,122 +1,129 @@
-# Olá, eu sou Ingrid! 👋
+# 👩‍💻 Ingrid Xisto
 
-### Desenvolvedora Back-end | Apaixonada por código limpo, APIs REST e soluções inteligentes 💻✨
+### Desenvolvedora Back-end | Python • APIs REST • Automação • Dados
+
+Apaixonada por tecnologia e desenvolvimento de software, focada na criação de **APIs, automação de processos e soluções inteligentes com Python**.  
+Sempre buscando escrever **código limpo, eficiente e escalável**.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ingridxisto&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=Ingridxisto&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 📊 Estatísticas do GitHub
 
-- 👩‍💻 Desenvolvedora back-end com experiência em Python, Flask, Django, Java (Spring Boot) e automações inteligentes  
-- 📊 Ampla vivência com análise de dados (Pandas, Orange) e scraping com Selenium  
-- 🎯 Projetos com APIs REST em Python puro seguindo boas práticas (SOLID, TDD, DDD)  
-- 📱 Experiência com React Native + Expo para criação de apps mobile  
-- 🔍 Conhecimento em criação de interfaces gráficas com Tkinter  
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
-- 💡 Sempre aprendendo, compartilhando conhecimento e buscando soluções eficientes  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingridxisto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingridxisto&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
----
-
-## 💻 Tecnologias que uso no meu dia a dia
-
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ingridxisto&theme=dracula"/>
+</p>
 
 ---
 
-## 🛠 Ferramentas e IDEs favoritas
+# 📈 Activity Graph
 
-<div align="center">
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ingridxisto&theme=dracula"/>
+</p>
 
 ---
 
-## 🔥 Hard Skills
+# 🚀 Sobre mim
 
-- 🐍 Python (Flask, Django, Selenium, Tkinter)
-- ☕ Java (Spring Boot)
-- 📱 Mobile com React Native + Expo
-- 🧪 Testes com TDD e boas práticas (SOLID / DDD)
-- 💾 Banco de dados (MySQL, SQLite)
-- 📈 Análise de dados com Pandas e Orange
-- 🌐 APIs RESTful (documentação, consumo e construção)
-- 📝 Versionamento com Git/GitHub
-- 🐳 Docker
+🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
 
----
+💻 Experiência com:
 
-## 🌟 Soft Skills
+- Desenvolvimento **Back-end em Python**
+- Criação de **APIs REST**
+- **Web Scraping e automação com Selenium**
+- **Análise de dados com Pandas**
+- **Desenvolvimento mobile com React Native**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Comunicação-0078D7?style=for-the-badge&logo=messenger&logoColor=white" alt="Comunicação" /> 
-  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-4CAF50?style=for-the-badge&logo=slack&logoColor=white" alt="Trabalho em equipe" />
-  <img src="https://img.shields.io/badge/Organização-F44336?style=for-the-badge&logo=trello&logoColor=white" alt="Organização" />
-  <img src="https://img.shields.io/badge/Proatividade-FF9800?style=for-the-badge&logo=zapier&logoColor=white" alt="Proatividade" />
-  <img src="https://img.shields.io/badge/Curiosidade-9C27B0?style=for-the-badge&logo=google&logoColor=white" alt="Curiosidade" />
-</div>
+📚 Sempre estudando:
+
+- Arquitetura de Software
+- Clean Code
+- Testes Automatizados
+- Boas práticas como **SOLID, TDD e DDD**
 
 ---
 
-## 💡 Projetos em destaque
+# 🧠 Tecnologias
+
+### Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+### Dados
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+
+---
+
+# ⭐ Projetos em destaque
 
 | Projeto | Descrição | Link |
-| --- | --- | --- |
-| Controle de Estoque | CRUD com Flask + MySQL | [GitHub](https://github.com/Ingridxisto/Controle-de-Estoque) |
-| Biblioteca Digital | API REST para gestão de livros | [GitHub](https://github.com/Ingridxisto/Biblioteca_Digital-API) |
-| API Simpsons | Frontend com consumo de API pública | [GitHub](https://github.com/Ingridxisto/Web-Site-com-Integracao-da-API-de-Os-Simpsons) |
-| Conversor de Moedas | API em Python puro com TDD e SOLID | [GitHub](https://github.com/Ingridxisto/Conversor-Moedas-Python) |
-| App de Produtos | Mobile com React Native + API externa | [GitHub](https://github.com/Ingridxisto/AppProdutos-ReactNative) |
+|------|------|------|
+| 📦 Controle de Estoque | Sistema CRUD com Flask + MySQL | https://github.com/Ingridxisto/Controle-de-Estoque |
+| 📚 Biblioteca Digital | API REST para gerenciamento de livros | https://github.com/Ingridxisto/Biblioteca_Digital-API |
+| 💱 Conversor de Moedas | API em Python puro com TDD e SOLID | https://github.com/Ingridxisto/Conversor-Moedas-Python |
+| 🛍 App de Produtos | Aplicativo mobile com React Native | https://github.com/Ingridxisto/AppProdutos-ReactNative |
+| 📺 Simpsons API | Frontend consumindo API pública | https://github.com/Ingridxisto/Web-Site-com-Integracao-da-API-de-Os-Simpsons |
 
 ---
 
-## 🤖 Inteligência Artificial em ação
+# 🐍 Contribuições
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Pinguim codando" width="250" />
+  <img src="https://raw.githubusercontent.com/Ingridxisto/Ingridxisto/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+# 🤖 Coding Mode
 
 <p align="center">
-  <a href="https://ingridxisto.github.io/Portfolio-Ingrid/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ingridxisto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
 
-## 🐍 Minhas contribuições
+# 🌐 Conecte-se comigo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingridxisto/ingridxisto/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+<a href="https://ingridxisto.github.io/Portfolio-Ingrid/">
+<img src="https://img.shields.io/badge/Portfólio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ingridxisto/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-> _"You can create anything: just write it."_ – C.S. Lewis
+💬 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
