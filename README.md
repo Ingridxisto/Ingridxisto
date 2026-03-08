@@ -2,8 +2,12 @@
 
 ### Desenvolvedora Back-end | Apaixonada por código limpo, APIs REST e soluções inteligentes 💻✨
 
+---
+
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ingridxisto&show_icons=true&theme=dracula&count_private=true" alt="Ingrid GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ingridxisto&theme=dracula"/>
 </p>
 
 ---
@@ -103,6 +107,14 @@
   <a href="https://www.linkedin.com/in/ingridxisto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ingridxisto/ingridxisto/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
