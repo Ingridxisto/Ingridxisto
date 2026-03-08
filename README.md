@@ -16,11 +16,6 @@ Sempre buscando escrever **código limpo, eficiente e escalável**.
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingridxisto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingridxisto&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ingridxisto&theme=dracula"/>
 </p>
 
